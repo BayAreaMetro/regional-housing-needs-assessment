@@ -1,4 +1,4 @@
-## Housing
+## Regional Housing Needs Assessment
 
 This repository contains a notebook for reproducing the San Francisco Bay Area RHNA Cycle 6 Allocation. The methodology and illustrative allocation was adopted by ABAG's Executive Board on January 21, 2021. The purpose was to distribute the 441,776 units as required by California Department of Housing and Community Development, broken into four income categories:
 
